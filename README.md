@@ -4,6 +4,7 @@ main()
 {
 int a,b,c;
 clrscr();
+printf("Enter integers only!");
 printf("\n Enter first number : ");
 scanf("%d",&a);
 printf("\n Enter second number : ");
