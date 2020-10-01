@@ -12,3 +12,6 @@ c=a+b;
 printf("Sum is : %d",c);
 getch();
 }
+
+
+# abe ye sab code me likhna hota hai
