@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**Harshkrsingh65/harshkrsingh65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int a,b,c;
+clrscr();
+printf("\n Enter first number : ");
+scanf("%d",&a);
+printf("\n Enter second number : ");
+scanf("%d",&b);
+c=a+b;
+printf("Sum is : %d",c);
+getch();
+}
