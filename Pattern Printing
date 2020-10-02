@@ -4,8 +4,8 @@ main()
 {
 int i,j,n;
 clrscr();
-printf("Enter a number : ");
-scanf("%d",&n)
+printf("Enter a number : "); // Specify that what is the role of this input on the program...
+scanf("%d",&n); //semicolon was missing here.
 for(i=1;i<=n;i++)
 {
 for(j=1;j<=n;j++)
@@ -16,3 +16,4 @@ printf("\n");
 }
 getch();
 }
+//Addimg comments in your Program is a Good Practice to remember things.
